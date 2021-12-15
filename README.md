@@ -1,6 +1,6 @@
 <div align="center">
   <img src="assets/invidious-colored-vector.svg" width="192" height="192" alt="Invidious logo">
-  <h1>Invidious</h1>
+  <h1>Liberation</h1>
 
   <a href="https://www.gnu.org/licenses/agpl-3.0.en.html">
     <img alt="License: AGPLv3" src="https://shields.io/badge/License-AGPL%20v3-blue.svg">
@@ -25,7 +25,7 @@
     <img alt="Awesome Humane Tech" src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true">
   </a>
 
-  <h3>An open source alternative front-end to YouTube</h3>
+  <h3>An open source alternative to YouTube</h3>
 
   <a href="https://invidious.io/">Website</a>
   &nbsp;•&nbsp; 
@@ -40,9 +40,6 @@
   <h5>Chat with us:</h5>
   <a href="https://matrix.to/#/#invidious:matrix.org">
     <img alt="Matrix" src="https://img.shields.io/matrix/invidious:matrix.org?label=Matrix&color=darkgreen">
-  </a>
-  <a href="https://web.libera.chat/?channel=#invidious">
-    <img alt="Libera.chat (IRC)" src="https://img.shields.io/badge/IRC%20%28Libera.chat%29-%23invidious-darkgreen">
   </a>
 </div>
 
@@ -131,15 +128,6 @@ You can suggest new translations and/or correction here: https://hosted.weblate.
 
 Creating an account is not required, but recommended, especially if you want to contribute regularly.
 Weblate also allows you to log-in with major SSO providers like Github, Gitlab, BitBucket, Google, ...
-
-
-## Projects using Invidious
-
-- [FreeTube](https://github.com/FreeTubeApp/FreeTube): A libre software YouTube app for privacy.
-- [CloudTube](https://sr.ht/~cadence/tube/): A JavaScript-rich alternate YouTube player.
-- [PeerTubeify](https://gitlab.com/Cha_deL/peertubeify): On YouTube, displays a link to the same video on PeerTube, if it exists.
-- [MusicPiped](https://github.com/deep-gaurav/MusicPiped): A material design music player that streams music from YouTube.
-- [HoloPlay](https://github.com/stephane-r/HoloPlay): Funny Android application connecting on Invidious API's with search, playlists and favorites.
 
 
 ## Liability
